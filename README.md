@@ -6,6 +6,7 @@ leetcode problems
 ## Array
 |  |
 | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/srrishtiii1021/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/srrishtiii1021/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String
 |  |
@@ -35,4 +36,12 @@ leetcode problems
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/srrishtiii1021/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/srrishtiii1021/DSA/tree/master/3665-twisted-mirror-path-count) |
+## Matrix
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/srrishtiii1021/DSA/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
