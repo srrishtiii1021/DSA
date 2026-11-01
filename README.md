@@ -6,6 +6,7 @@ leetcode problems
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/srrishtiii1021/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3665-twisted-mirror-path-count](https://github.com/srrishtiii1021/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/srrishtiii1021/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String
@@ -44,4 +45,8 @@ leetcode problems
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/srrishtiii1021/DSA/tree/master/3665-twisted-mirror-path-count) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/srrishtiii1021/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
